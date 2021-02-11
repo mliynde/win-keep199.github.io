@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://w-k.xyz/posts/b04da4d7/</loc>
+    <loc>https://w-k.xyz/posts/16107/</loc>
+    
+    <lastmod>2021-02-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://w-k.xyz/links/index.html</loc>
+    
+    <lastmod>2021-02-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://w-k.xyz/photos/index.html</loc>
     
     <lastmod>2021-02-11</lastmod>
     
@@ -16,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://w-k.xyz/posts/62599/</loc>
+    <loc>https://w-k.xyz/posts/b04da4d7/</loc>
     
     <lastmod>2021-02-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://w-k.xyz/posts/16107/</loc>
+    <loc>https://w-k.xyz/posts/62599/</loc>
     
     <lastmod>2021-02-11</lastmod>
     
@@ -79,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://w-k.xyz/photos/index.html</loc>
-    
-    <lastmod>2020-04-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://w-k.xyz/links/index.html</loc>
-    
-    <lastmod>2020-03-31</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://w-k.xyz/categories/index.html</loc>
     
     <lastmod>2020-03-28</lastmod>
@@ -116,7 +116,7 @@
   </url>
   
   <url>
-    <loc>https://w-k.xyz/tags/%E5%90%8D%E8%91%97/</loc>
+    <loc>https://w-k.xyz/tags/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</loc>
     <lastmod>2021-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -130,7 +130,7 @@
   </url>
   
   <url>
-    <loc>https://w-k.xyz/tags/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</loc>
+    <loc>https://w-k.xyz/tags/%E5%90%8D%E8%91%97/</loc>
     <lastmod>2021-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -153,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://w-k.xyz/categories/%E8%AF%AD%E6%96%87/</loc>
+    <loc>https://w-k.xyz/categories/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2021-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -167,7 +167,7 @@
   </url>
   
   <url>
-    <loc>https://w-k.xyz/categories/%E6%95%B0%E5%AD%A6/</loc>
+    <loc>https://w-k.xyz/categories/%E8%AF%AD%E6%96%87/</loc>
     <lastmod>2021-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
